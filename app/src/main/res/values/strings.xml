@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="calculateYour">порахуй свій</string>
+    <string name="age">вік</string>
+    <string name="inWeeks">в тижнях</string>
+    <string name="button">обрати дату народження</string>
+    <string name="week">0</string>
+</resources>
